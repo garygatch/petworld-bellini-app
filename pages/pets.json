@@ -305,16 +305,10 @@
   "children": [
     {
       "name": "section",
-      "nodeName": "section",
-      "elementId": "",
       "attributes": [
         {
           "property": "aria-labelledby",
           "value": "pet-catalogue-title"
-        },
-        {
-          "property": "data-id",
-          "value": "E59V6h"
         }
       ],
       "classList": [
@@ -322,17 +316,6 @@
         "w-full",
         "text-slate-900"
       ],
-      "conditionalClasses": [],
-      "conditionalStyles": [],
-      "contentType": "text",
-      "displayExpression": "",
-      "events": {},
-      "iterate": {
-        "array": "",
-        "variable": "",
-        "trackByIndex": false
-      },
-      "styles": [],
       "layout": {
         "container": {
           "type": "box",
@@ -345,26 +328,7 @@
       "children": [
         {
           "name": "header",
-          "nodeName": "header",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "pQifnf"
-            }
-          ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -373,14 +337,6 @@
           "children": [
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "za0_Im"
-                }
-              ],
               "classList": [
                 "m-0",
                 "mb-3",
@@ -389,37 +345,17 @@
                 "tracking-widest",
                 "text-teal-700"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "PET CATALOGUE",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "h1",
-              "nodeName": "h1",
               "elementId": "pet-catalogue-title",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "tKJWGB"
-                }
-              ],
               "classList": [
                 "m-0",
                 "text-3xl",
@@ -429,37 +365,16 @@
                 "leading-tight",
                 "break-words"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "Find your kind of companion",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "BqK7LS"
-                }
-              ],
               "classList": [
                 "m-0",
                 "mt-4",
@@ -468,42 +383,22 @@
                 "leading-6",
                 "text-slate-600"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "Explore public demo records, not adoption listings. Browse names, categories and tags to discover the Petstore sample catalogue.",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             }
-          ],
-          "comments": ""
+          ]
         },
         {
           "name": "section",
-          "nodeName": "section",
-          "elementId": "",
           "attributes": [
             {
               "property": "aria-label",
               "value": "Filter pet catalogue"
-            },
-            {
-              "property": "data-id",
-              "value": "E0Ybob"
             }
           ],
           "classList": [
@@ -514,17 +409,6 @@
             "p-5",
             "shadow-sm"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -540,26 +424,7 @@
           "children": [
             {
               "name": "div",
-              "nodeName": "div",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "gGYHUK"
-                }
-              ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -588,15 +453,10 @@
                 {
                   "name": "Text Input",
                   "nodeName": "bln-text-input",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "ERu7H6"
                     }
                   ],
                   "classList": [
@@ -605,24 +465,12 @@
                     "[&_input:focus-visible]:ring-teal-600",
                     "[&_input:focus-visible]:ring-offset-2"
                   ],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "grid-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -665,15 +513,10 @@
                 {
                   "name": "Dropdown",
                   "nodeName": "bln-dropdown",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "uOhPAP"
                     }
                   ],
                   "classList": [
@@ -683,24 +526,12 @@
                     "focus-within:ring-offset-2",
                     "rounded-md"
                   ],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "grid-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -739,15 +570,10 @@
                 {
                   "name": "Dropdown",
                   "nodeName": "bln-dropdown",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "QjLJlp"
                     }
                   ],
                   "classList": [
@@ -757,24 +583,12 @@
                     "focus-within:ring-offset-2",
                     "rounded-md"
                   ],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "grid-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -817,15 +631,10 @@
                 {
                   "name": "Dropdown",
                   "nodeName": "bln-dropdown",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "fTnSzE"
                     }
                   ],
                   "classList": [
@@ -835,24 +644,12 @@
                     "focus-within:ring-offset-2",
                     "rounded-md"
                   ],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "grid-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -888,35 +685,15 @@
                     "modelName": "value"
                   }
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "div",
-              "nodeName": "div",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "lnQsT3"
-                }
-              ],
               "classList": [
                 "pt-4",
                 "border-t",
                 "border-slate-100"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -933,15 +710,10 @@
                 {
                   "name": "Button",
                   "nodeName": "bln-button",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "jQRJS7"
                     }
                   ],
                   "classList": [
@@ -950,17 +722,6 @@
                     "focus-within:ring-teal-600",
                     "focus-within:ring-offset-2"
                   ],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "box-item",
@@ -970,7 +731,6 @@
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -998,15 +758,10 @@
                 {
                   "name": "Button",
                   "nodeName": "bln-button",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "_Ard5C"
                     }
                   ],
                   "classList": [
@@ -1015,17 +770,6 @@
                     "focus-within:ring-teal-600",
                     "focus-within:ring-offset-2"
                   ],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "box-item",
@@ -1035,7 +779,6 @@
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -1056,16 +799,13 @@
                     }
                   ]
                 }
-              ],
-              "comments": ""
+              ]
             }
           ],
           "comments": "Core labelled controls retain native keyboard behavior. Grid auto-fit tracks reflow the toolbar without duplicating controls. Descendant focus-visible rings target the actual rendered input/button. Dropdown callbacks explicitly assign the verified value local before recomputing; watches are supplementary."
         },
         {
           "name": "div",
-          "nodeName": "div",
-          "elementId": "",
           "attributes": [
             {
               "property": "aria-live",
@@ -1074,24 +814,9 @@
             {
               "property": "aria-atomic",
               "value": "true"
-            },
-            {
-              "property": "data-id",
-              "value": "vrdLa3"
             }
           ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1107,31 +832,12 @@
           "children": [
             {
               "name": "h2",
-              "nodeName": "h2",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "DU_Lek"
-                }
-              ],
               "classList": [
                 "m-0",
                 "text-base",
                 "font-medium",
                 "break-words"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item",
@@ -1143,39 +849,21 @@
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "$ctrl.isLoading || $ctrl.requestedStatus !== $ctrl.status ? 'Loading records…' : $ctrl.loadError ? 'Results unavailable' : $ctrl.filteredPets.length + ($ctrl.filteredPets.length === 1 ? ' pet found' : ' pets found')",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "Badge",
               "nodeName": "bln-badge",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
                   "value": ""
-                },
-                {
-                  "property": "data-id",
-                  "value": "bvmhMs"
                 }
               ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item",
@@ -1185,7 +873,6 @@
                 }
               },
               "children": [],
-              "comments": "",
               "type": "core-component",
               "expressions": [
                 {
@@ -1206,40 +893,21 @@
                 }
               ]
             }
-          ],
-          "comments": ""
+          ]
         },
         {
           "name": "pw-feedback",
           "nodeName": "pw-feedback",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "S8eDwO"
-            }
-          ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "$ctrl.isLoading || $ctrl.requestedStatus !== $ctrl.status",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
             }
           },
           "children": [],
-          "comments": "",
           "type": "custom-component",
-          "ownerId": "6aebf3d8a81d56bf73bff9b6",
+          "ownerId": "6aec2745ef9dbeea92108289",
           "ownerType": "app",
           "expressions": [
             {
@@ -1259,25 +927,8 @@
         {
           "name": "pw-feedback",
           "nodeName": "pw-feedback",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "1t7XNK"
-            }
-          ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "!$ctrl.isLoading && $ctrl.requestedStatus === $ctrl.status && $ctrl.loadError",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1286,7 +937,7 @@
           "children": [],
           "comments": "onRetry is an invocation expression with no locals, matching pw-feedback's public callback contract.",
           "type": "custom-component",
-          "ownerId": "6aebf3d8a81d56bf73bff9b6",
+          "ownerId": "6aec2745ef9dbeea92108289",
           "ownerType": "app",
           "expressions": [
             {
@@ -1314,25 +965,8 @@
         {
           "name": "pw-feedback",
           "nodeName": "pw-feedback",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "oa6PTw"
-            }
-          ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "!$ctrl.isLoading && !$ctrl.loadError && $ctrl.requestedStatus === $ctrl.status && !$ctrl.filteredPets.length",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1341,7 +975,7 @@
           "children": [],
           "comments": "An empty returned list is different from zero client matches. The filter toolbar remains available in both states.",
           "type": "custom-component",
-          "ownerId": "6aebf3d8a81d56bf73bff9b6",
+          "ownerId": "6aec2745ef9dbeea92108289",
           "ownerType": "app",
           "expressions": [
             {
@@ -1360,16 +994,10 @@
         },
         {
           "name": "div",
-          "nodeName": "div",
-          "elementId": "",
           "attributes": [
             {
               "property": "aria-label",
               "value": "Pet catalogue results"
-            },
-            {
-              "property": "data-id",
-              "value": "Hwx6-6"
             }
           ],
           "classList": [
@@ -1378,17 +1006,7 @@
             "md:[--pet-columns:2]",
             "lg:[--pet-columns:3]"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "!$ctrl.isLoading && !$ctrl.loadError && $ctrl.requestedStatus === $ctrl.status && $ctrl.visiblePets.length",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1417,37 +1035,22 @@
             {
               "name": "pw-pet-card",
               "nodeName": "pw-pet-card",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "aO8dke"
-                }
-              ],
               "classList": [
                 "min-w-0",
                 "h-full"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
               "iterate": {
                 "array": "$ctrl.visiblePets",
-                "variable": "pet",
-                "trackByIndex": false
+                "variable": "pet"
               },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "custom-component",
-              "ownerId": "6aebf3d8a81d56bf73bff9b6",
+              "ownerId": "6aec2745ef9dbeea92108289",
               "ownerType": "app",
               "expressions": [
                 {
@@ -1465,14 +1068,6 @@
         },
         {
           "name": "div",
-          "nodeName": "div",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "fc7Mlv"
-            }
-          ],
           "classList": [
             "rounded-lg",
             "border",
@@ -1480,17 +1075,7 @@
             "bg-white",
             "p-4"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "!$ctrl.isLoading && !$ctrl.loadError && $ctrl.requestedStatus === $ctrl.status && $ctrl.filteredPets.length",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1506,31 +1091,12 @@
           "children": [
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "9bNUsJ"
-                }
-              ],
               "classList": [
                 "m-0",
                 "text-xs",
                 "text-slate-500",
                 "text-center"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1539,17 +1105,14 @@
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "'Showing ' + $ctrl.rangeStart + '–' + $ctrl.rangeEnd + ' of ' + $ctrl.filteredPets.length + ' · 12 per page'",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "Pagination",
               "nodeName": "bln-pagination",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
@@ -1558,10 +1121,6 @@
                 {
                   "property": "aria-label",
                   "value": "Pet catalogue pages"
-                },
-                {
-                  "property": "data-id",
-                  "value": "HOPQpo"
                 }
               ],
               "classList": [
@@ -1570,17 +1129,6 @@
                 "[&_button:focus-visible]:ring-teal-600",
                 "[&_button:focus-visible]:ring-offset-2"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1616,35 +1164,15 @@
                 }
               ]
             }
-          ],
-          "comments": ""
+          ]
         },
         {
           "name": "footer",
-          "nodeName": "footer",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "xmgpWS"
-            }
-          ],
           "classList": [
             "border-t",
             "border-slate-200",
             "pt-4"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1653,51 +1181,22 @@
           "children": [
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "RBnkqd"
-                }
-              ],
               "classList": [
                 "m-0",
                 "text-xs",
                 "leading-5",
                 "text-slate-500"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "Public demo data is shared and may change or disappear. Records are not adoption listings.",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "p1kgDM"
-                }
-              ],
               "classList": [
                 "m-0",
                 "mt-1",
@@ -1705,32 +1204,17 @@
                 "leading-5",
                 "text-slate-500"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "$ctrl.updatedAt ? 'Last updated: ' + ($ctrl.updatedAt | date:'MMM d, y, h:mm:ss a') : 'Last updated: not yet available for this selection'",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             }
-          ],
-          "comments": ""
+          ]
         }
-      ],
-      "comments": ""
+      ]
     }
   ],
   "parentPageName": "workspace",

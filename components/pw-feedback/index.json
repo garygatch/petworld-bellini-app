@@ -454,5 +454,9 @@
     }
   ],
   "modules": [],
-  "styles": []
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
 }

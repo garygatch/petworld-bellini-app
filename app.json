@@ -7,13 +7,11 @@
       "parameters": [],
       "script": ""
     },
-    "modules": [],
     "properties": {
       "version": "1.0.0",
       "description": "## Overview\nRead-only public pets and geography workspace; authentication is intentionally disabled.\n\n## Pages\n- `workspace`: persistent shell at `/app`.\n- `/app/home` (`workspace.home`): dashboard.\n- `/app/pets`: searchable, status-filtered, paginated catalogue.\n- `/app/pets/:id`: direct-link pet detail.\n- `/app/countries`: searchable, paginated continent explorer with inline country details.\n\n## Architecture\nCore Navigation, Link, Button, Badge, Input (Text Input), Select (Dropdown) and Pagination where available; Bellini Box/Grid layouts. Reusable `pw-stat-card`, `pw-pet-card`, `pw-country-card` and `pw-feedback`. Singleton `petData` normalizes and caches read-only Petstore requests with independent error states, request deduplication and race guards. `countryData` normalizes geography with a ten-minute cache and shared requests; GraphQL uses builtin `$http` transport because the imported schema lacks an injectable API ID.\n\n## Integrations\n- Swagger Petstore v2: https://petstore.swagger.io/v2\n- Countries GraphQL: https://countries.trevorblades.com/ (imported schema exists).\n\n## Limitations\nPublic demo backends may change; Petstore data is shared and mutable. No authentication, SLA, adoption eligibility verification or commerce. Production launch requires a controlled, secured backend, monitoring and real deployment testing.",
       "title": "PetWorld — Pets & Places"
     },
-    "environments": [],
     "themes": [
       {
         "name": "PetWorld",
@@ -111,9 +109,28 @@
         "customThemeVariables": []
       }
     ],
+    "environments": [],
     "auth": {
       "enabled": false,
       "mockedUserAccounts": []
     }
+  },
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "BdDsAAWrdtw6OhyRgZ_wz",
+        "name": "aaaaa"
+      }
+    ],
+    "pages": [],
+    "scripts": [],
+    "services": [
+      {
+        "id": "AaTE58qwraYClrbwaJv53",
+        "name": "bbbb"
+      }
+    ],
+    "stylesheets": []
   }
 }

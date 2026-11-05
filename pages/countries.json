@@ -266,29 +266,10 @@
   "children": [
     {
       "name": "div",
-      "nodeName": "div",
-      "elementId": "",
-      "attributes": [
-        {
-          "property": "data-id",
-          "value": "mtux8A"
-        }
-      ],
       "classList": [
         "min-w-0",
         "text-slate-900"
       ],
-      "conditionalClasses": [],
-      "conditionalStyles": [],
-      "contentType": "text",
-      "displayExpression": "",
-      "events": {},
-      "iterate": {
-        "array": "",
-        "variable": "",
-        "trackByIndex": false
-      },
-      "styles": [],
       "layout": {
         "container": {
           "type": "box",
@@ -301,28 +282,9 @@
       "children": [
         {
           "name": "header",
-          "nodeName": "header",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "CwgZQS"
-            }
-          ],
           "classList": [
             "py-2"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -331,14 +293,6 @@
           "children": [
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "EKIVzd"
-                }
-              ],
               "classList": [
                 "m-0",
                 "mb-3",
@@ -347,37 +301,16 @@
                 "tracking-widest",
                 "text-teal-700"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "WORLD EXPLORER",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "h1",
-              "nodeName": "h1",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "RnhrSO"
-                }
-              ],
               "classList": [
                 "m-0",
                 "text-3xl",
@@ -385,37 +318,16 @@
                 "font-semibold",
                 "tracking-tight"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "A world worth discovering.",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "qG_SmK"
-                }
-              ],
               "classList": [
                 "m-0",
                 "mt-4",
@@ -424,55 +336,22 @@
                 "leading-6",
                 "text-slate-600"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "Explore real geography from the Countries GraphQL API: names, capitals, continents, and languages. A directory for discovery—not travel or adoption eligibility advice.",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             }
-          ],
-          "comments": ""
+          ]
         },
         {
           "name": "div",
-          "nodeName": "div",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "gaC4jl"
-            }
-          ],
           "classList": [
             "[--metric-columns:1]",
             "sm:[--metric-columns:3]"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -501,34 +380,15 @@
             {
               "name": "pw-stat-card",
               "nodeName": "pw-stat-card",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "mwhACM"
-                }
-              ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "custom-component",
-              "ownerId": "6aebf3d8a81d56bf73bff9b6",
+              "ownerId": "6aec2745ef9dbeea92108289",
               "ownerType": "app",
               "expressions": [
                 {
@@ -548,34 +408,15 @@
             {
               "name": "pw-stat-card",
               "nodeName": "pw-stat-card",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "1JtDNb"
-                }
-              ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "custom-component",
-              "ownerId": "6aebf3d8a81d56bf73bff9b6",
+              "ownerId": "6aec2745ef9dbeea92108289",
               "ownerType": "app",
               "expressions": [
                 {
@@ -595,34 +436,15 @@
             {
               "name": "pw-stat-card",
               "nodeName": "pw-stat-card",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "z5Hkal"
-                }
-              ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "custom-component",
-              "ownerId": "6aebf3d8a81d56bf73bff9b6",
+              "ownerId": "6aec2745ef9dbeea92108289",
               "ownerType": "app",
               "expressions": [
                 {
@@ -644,16 +466,10 @@
         },
         {
           "name": "section",
-          "nodeName": "section",
-          "elementId": "",
           "attributes": [
             {
               "property": "aria-label",
               "value": "Filter countries"
-            },
-            {
-              "property": "data-id",
-              "value": "6uLBSQ"
             }
           ],
           "classList": [
@@ -663,17 +479,6 @@
             "bg-white",
             "p-5"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -702,29 +507,13 @@
             {
               "name": "Text Input",
               "nodeName": "bln-text-input",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
                   "value": ""
-                },
-                {
-                  "property": "data-id",
-                  "value": "3G5uL7"
                 }
               ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
@@ -774,36 +563,19 @@
             {
               "name": "Dropdown",
               "nodeName": "bln-dropdown",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
                   "value": ""
-                },
-                {
-                  "property": "data-id",
-                  "value": "xepiZO"
                 }
               ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "core-component",
               "expressions": [
                 {
@@ -838,36 +610,19 @@
             {
               "name": "Dropdown",
               "nodeName": "bln-dropdown",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
                   "value": ""
-                },
-                {
-                  "property": "data-id",
-                  "value": "cyAsQw"
                 }
               ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "core-component",
               "expressions": [
                 {
@@ -901,26 +656,7 @@
             },
             {
               "name": "div",
-              "nodeName": "div",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "BxSBhJ"
-                }
-              ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "grid-item"
@@ -937,36 +673,19 @@
                 {
                   "name": "Button",
                   "nodeName": "bln-button",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "ZbkFli"
                     }
                   ],
                   "classList": [],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "box-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -994,36 +713,19 @@
                 {
                   "name": "Button",
                   "nodeName": "bln-button",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "WlVU-M"
                     }
                   ],
                   "classList": [],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "box-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -1040,43 +742,23 @@
                     }
                   ]
                 }
-              ],
-              "comments": ""
+              ]
             }
-          ],
-          "comments": ""
+          ]
         },
         {
           "name": "pw-feedback",
           "nodeName": "pw-feedback",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "hNMxqO"
-            }
-          ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "$ctrl.loading || $ctrl.countryData.loading",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
             }
           },
           "children": [],
-          "comments": "",
           "type": "custom-component",
-          "ownerId": "6aebf3d8a81d56bf73bff9b6",
+          "ownerId": "6aec2745ef9dbeea92108289",
           "ownerType": "app",
           "expressions": [
             {
@@ -1096,34 +778,16 @@
         {
           "name": "pw-feedback",
           "nodeName": "pw-feedback",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "h9wgV5"
-            }
-          ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "!$ctrl.loading && !$ctrl.countryData.loading && $ctrl.loadError",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
             }
           },
           "children": [],
-          "comments": "",
           "type": "custom-component",
-          "ownerId": "6aebf3d8a81d56bf73bff9b6",
+          "ownerId": "6aec2745ef9dbeea92108289",
           "ownerType": "app",
           "expressions": [
             {
@@ -1150,16 +814,10 @@
         },
         {
           "name": "section",
-          "nodeName": "section",
-          "elementId": "",
           "attributes": [
             {
               "property": "aria-labelledby",
               "value": "pw-country-detail-heading"
-            },
-            {
-              "property": "data-id",
-              "value": "ya-xHH"
             }
           ],
           "classList": [
@@ -1169,17 +827,7 @@
             "bg-white",
             "p-6"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
           "displayExpression": "$ctrl.selectedCountry",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1195,32 +843,15 @@
           "children": [
             {
               "name": "span",
-              "nodeName": "span",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "aria-hidden",
                   "value": "true"
-                },
-                {
-                  "property": "data-id",
-                  "value": "gMtLYk"
                 }
               ],
               "classList": [
                 "text-4xl"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1229,25 +860,18 @@
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "$ctrl.selectedCountry.emoji || '—'",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "h2",
-              "nodeName": "h2",
               "elementId": "pw-country-detail-heading",
               "attributes": [
                 {
                   "property": "tabindex",
                   "value": "-1"
-                },
-                {
-                  "property": "data-id",
-                  "value": "NZECh9"
                 }
               ],
               "classList": [
@@ -1257,17 +881,6 @@
                 "break-words",
                 "focus:outline-teal-600"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1276,37 +889,16 @@
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "$ctrl.selectedCountry.name + ' — country details'",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "dl",
-              "nodeName": "dl",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "A40yIJ"
-                }
-              ],
               "classList": [
                 "m-0"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1334,25 +926,11 @@
               "children": [
                 {
                   "name": "div",
-                  "nodeName": "div",
-                  "elementId": "",
-                  "attributes": [
-                    {
-                      "property": "data-id",
-                      "value": "lpD9m5"
-                    }
-                  ],
                   "classList": [],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
                   "iterate": {
                     "array": "$ctrl.detailFields",
                     "variable": "field"
                   },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "grid-item"
@@ -1361,50 +939,21 @@
                   "children": [
                     {
                       "name": "dt",
-                      "nodeName": "dt",
-                      "elementId": "",
-                      "attributes": [
-                        {
-                          "property": "data-id",
-                          "value": "VIJhut"
-                        }
-                      ],
                       "classList": [
                         "text-xs",
                         "font-medium",
                         "text-slate-500"
                       ],
-                      "conditionalClasses": [],
-                      "conditionalStyles": [],
-                      "contentType": "text",
-                      "displayExpression": "",
-                      "events": {},
-                      "iterate": {
-                        "array": "",
-                        "variable": "",
-                        "trackByIndex": false
-                      },
-                      "styles": [],
                       "children": [
                         {
                           "name": "text",
-                          "nodeName": "text",
                           "textContent": "field.label",
                           "evaluate": true
                         }
-                      ],
-                      "comments": ""
+                      ]
                     },
                     {
                       "name": "dd",
-                      "nodeName": "dd",
-                      "elementId": "",
-                      "attributes": [
-                        {
-                          "property": "data-id",
-                          "value": "l-WwiU"
-                        }
-                      ],
                       "classList": [
                         "m-0",
                         "mt-1",
@@ -1412,59 +961,28 @@
                         "break-words",
                         "text-slate-800"
                       ],
-                      "conditionalClasses": [],
-                      "conditionalStyles": [],
-                      "contentType": "text",
-                      "displayExpression": "",
-                      "events": {},
-                      "iterate": {
-                        "array": "",
-                        "variable": "",
-                        "trackByIndex": false
-                      },
-                      "styles": [],
                       "children": [
                         {
                           "name": "text",
-                          "nodeName": "text",
                           "textContent": "field.value",
                           "evaluate": true
                         }
-                      ],
-                      "comments": ""
+                      ]
                     }
-                  ],
-                  "comments": ""
+                  ]
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "Button",
               "nodeName": "bln-button",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
                   "value": ""
-                },
-                {
-                  "property": "data-id",
-                  "value": "NwQHoJ"
                 }
               ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item",
@@ -1472,7 +990,6 @@
                 }
               },
               "children": [],
-              "comments": "",
               "type": "core-component",
               "expressions": [
                 {
@@ -1494,30 +1011,13 @@
         },
         {
           "name": "section",
-          "nodeName": "section",
-          "elementId": "",
           "attributes": [
             {
               "property": "aria-labelledby",
               "value": "pw-countries-results"
-            },
-            {
-              "property": "data-id",
-              "value": "k2Ry0i"
             }
           ],
           "classList": [],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1533,16 +1033,11 @@
           "children": [
             {
               "name": "h2",
-              "nodeName": "h2",
               "elementId": "pw-countries-results",
               "attributes": [
                 {
                   "property": "tabindex",
                   "value": "-1"
-                },
-                {
-                  "property": "data-id",
-                  "value": "YKJNPj"
                 }
               ],
               "classList": [
@@ -1551,17 +1046,6 @@
                 "font-semibold",
                 "focus:outline-teal-600"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1570,17 +1054,13 @@
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "Explore the directory",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "role",
@@ -1593,10 +1073,6 @@
                 {
                   "property": "aria-atomic",
                   "value": "true"
-                },
-                {
-                  "property": "data-id",
-                  "value": "Xg8QF3"
                 }
               ],
               "classList": [
@@ -1605,17 +1081,6 @@
                 "text-slate-500",
                 "tabular-nums"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1624,39 +1089,18 @@
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "$ctrl.resultSummary",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "div",
-              "nodeName": "div",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "SU-06t"
-                }
-              ],
               "classList": [
                 "[--country-columns:1]",
                 "md:[--country-columns:2]",
                 "lg:[--country-columns:3]"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1685,24 +1129,11 @@
                 {
                   "name": "pw-country-card",
                   "nodeName": "pw-country-card",
-                  "elementId": "",
-                  "attributes": [
-                    {
-                      "property": "data-id",
-                      "value": "cD4yXK"
-                    }
-                  ],
                   "classList": [],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
                   "iterate": {
                     "array": "$ctrl.pageCountries",
                     "variable": "item"
                   },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "grid-item"
@@ -1711,7 +1142,7 @@
                   "children": [],
                   "comments": "country is the callback local emitted by onSelect({country}), not the iterate variable item.",
                   "type": "custom-component",
-                  "ownerId": "6aebf3d8a81d56bf73bff9b6",
+                  "ownerId": "6aec2745ef9dbeea92108289",
                   "ownerType": "app",
                   "expressions": [
                     {
@@ -1729,26 +1160,8 @@
             },
             {
               "name": "div",
-              "nodeName": "div",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "RLUS31"
-                }
-              ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
               "displayExpression": "!$ctrl.loading && !$ctrl.countryData.loading && !$ctrl.loadError && !$ctrl.filteredCountries.length && $ctrl.countryData.lastUpdated != null",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
@@ -1765,34 +1178,15 @@
                 {
                   "name": "pw-feedback",
                   "nodeName": "pw-feedback",
-                  "elementId": "",
-                  "attributes": [
-                    {
-                      "property": "data-id",
-                      "value": "vFiFKT"
-                    }
-                  ],
                   "classList": [],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "box-item"
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "custom-component",
-                  "ownerId": "6aebf3d8a81d56bf73bff9b6",
+                  "ownerId": "6aec2745ef9dbeea92108289",
                   "ownerType": "app",
                   "expressions": [
                     {
@@ -1812,29 +1206,13 @@
                 {
                   "name": "Button",
                   "nodeName": "bln-button",
-                  "elementId": "",
                   "attributes": [
                     {
                       "property": "core",
                       "value": ""
-                    },
-                    {
-                      "property": "data-id",
-                      "value": "5qRozR"
                     }
                   ],
                   "classList": [],
-                  "conditionalClasses": [],
-                  "conditionalStyles": [],
-                  "contentType": "text",
-                  "displayExpression": "",
-                  "events": {},
-                  "iterate": {
-                    "array": "",
-                    "variable": "",
-                    "trackByIndex": false
-                  },
-                  "styles": [],
                   "layout": {
                     "cell": {
                       "type": "box-item",
@@ -1842,7 +1220,6 @@
                     }
                   },
                   "children": [],
-                  "comments": "",
                   "type": "core-component",
                   "expressions": [
                     {
@@ -1859,42 +1236,25 @@
                     }
                   ]
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "Pagination",
               "nodeName": "bln-pagination",
-              "elementId": "",
               "attributes": [
                 {
                   "property": "core",
                   "value": ""
-                },
-                {
-                  "property": "data-id",
-                  "value": "w0gscM"
                 }
               ],
               "classList": [],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
               "displayExpression": "$ctrl.filteredCountries.length > 0",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "layout": {
                 "cell": {
                   "type": "box-item"
                 }
               },
               "children": [],
-              "comments": "",
               "type": "core-component",
               "expressions": [
                 {
@@ -1923,19 +1283,10 @@
                 }
               ]
             }
-          ],
-          "comments": ""
+          ]
         },
         {
           "name": "footer",
-          "nodeName": "footer",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "npGSbp"
-            }
-          ],
           "classList": [
             "border-t",
             "border-slate-200",
@@ -1944,17 +1295,6 @@
             "leading-5",
             "text-slate-500"
           ],
-          "conditionalClasses": [],
-          "conditionalStyles": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": "",
-            "trackByIndex": false
-          },
-          "styles": [],
           "layout": {
             "cell": {
               "type": "box-item"
@@ -1963,79 +1303,36 @@
           "children": [
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "m5Zr1Z"
-                }
-              ],
               "classList": [
                 "m-0",
                 "break-words"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
-              "displayExpression": "",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "Source: Countries GraphQL API · countries.trevorblades.com · Geographic reference only.",
                   "evaluate": false
                 }
-              ],
-              "comments": ""
+              ]
             },
             {
               "name": "p",
-              "nodeName": "p",
-              "elementId": "",
-              "attributes": [
-                {
-                  "property": "data-id",
-                  "value": "cZfUQD"
-                }
-              ],
               "classList": [
                 "m-0",
                 "mt-1"
               ],
-              "conditionalClasses": [],
-              "conditionalStyles": [],
-              "contentType": "text",
               "displayExpression": "$ctrl.countryData.lastUpdated != null",
-              "events": {},
-              "iterate": {
-                "array": "",
-                "variable": "",
-                "trackByIndex": false
-              },
-              "styles": [],
               "children": [
                 {
                   "name": "text",
-                  "nodeName": "text",
                   "textContent": "'Last updated: ' + ($ctrl.countryData.lastUpdated | date:'medium')",
                   "evaluate": true
                 }
-              ],
-              "comments": ""
+              ]
             }
-          ],
-          "comments": ""
+          ]
         }
-      ],
-      "comments": ""
+      ]
     }
   ],
   "parentPageName": "workspace",
