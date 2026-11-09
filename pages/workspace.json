@@ -105,7 +105,7 @@
       "attributes": [
         {
           "property": "data-id",
-          "value": "p6-QHy"
+          "value": "0oo6cX"
         }
       ],
       "classList": [
@@ -148,7 +148,7 @@
             },
             {
               "property": "data-id",
-              "value": "Ujy4sm"
+              "value": "MmxOp7"
             }
           ],
           "classList": [],
@@ -216,7 +216,7 @@
           "attributes": [
             {
               "property": "data-id",
-              "value": "31KYR1"
+              "value": "bMJflK"
             }
           ],
           "classList": [
@@ -259,7 +259,7 @@
               "attributes": [
                 {
                   "property": "data-id",
-                  "value": "28DoI4"
+                  "value": "eopcnp"
                 }
               ],
               "classList": [
@@ -321,7 +321,7 @@
                   "attributes": [
                     {
                       "property": "data-id",
-                      "value": "3jhcL-"
+                      "value": "JkSuIO"
                     }
                   ],
                   "classList": [
@@ -352,7 +352,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "5HvMQk"
+                          "value": "FgnRCE"
                         }
                       ],
                       "classList": [
@@ -390,7 +390,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "m04Lh4"
+                          "value": "2H6tbj"
                         }
                       ],
                       "classList": [
@@ -434,7 +434,7 @@
                     },
                     {
                       "property": "data-id",
-                      "value": "4mlPlK"
+                      "value": "8C_7mc"
                     }
                   ],
                   "classList": [],
@@ -484,7 +484,7 @@
                   "attributes": [
                     {
                       "property": "data-id",
-                      "value": "id1ADw"
+                      "value": "CpuzZZ"
                     }
                   ],
                   "classList": [],
@@ -517,7 +517,7 @@
                         },
                         {
                           "property": "data-id",
-                          "value": "r7U37I"
+                          "value": "8wexdu"
                         }
                       ],
                       "classList": [],
@@ -568,7 +568,7 @@
                   "attributes": [
                     {
                       "property": "data-id",
-                      "value": "G139Z3"
+                      "value": "jDm9o8"
                     }
                   ],
                   "classList": [
@@ -620,7 +620,7 @@
                 },
                 {
                   "property": "data-id",
-                  "value": "8pW7fm"
+                  "value": "Tyl3U7"
                 }
               ],
               "classList": [
@@ -670,7 +670,7 @@
                   "attributes": [
                     {
                       "property": "data-id",
-                      "value": "hWepJd"
+                      "value": "C6OtcM"
                     }
                   ],
                   "classList": [
@@ -708,7 +708,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "oWjmVg"
+                          "value": "IPHVbz"
                         }
                       ],
                       "classList": [
@@ -747,7 +747,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "g1CESE"
+                          "value": "EIkoVy"
                         }
                       ],
                       "classList": [
@@ -785,7 +785,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "deOZ4h"
+                          "value": "VU4sp8"
                         }
                       ],
                       "classList": [
@@ -828,7 +828,7 @@
                         },
                         {
                           "property": "data-id",
-                          "value": "Fit7RZ"
+                          "value": "V-hkEZ"
                         }
                       ],
                       "classList": [
@@ -879,7 +879,7 @@
                   "attributes": [
                     {
                       "property": "data-id",
-                      "value": "oLxzn9"
+                      "value": "CVUhHt"
                     }
                   ],
                   "classList": [
@@ -921,7 +921,7 @@
                     },
                     {
                       "property": "data-id",
-                      "value": "QYuyYt"
+                      "value": "d-Z6KL"
                     }
                   ],
                   "classList": [
@@ -965,7 +965,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "qVKioL"
+                          "value": "j2w-rZ"
                         }
                       ],
                       "classList": [
@@ -1007,7 +1007,7 @@
                       "attributes": [
                         {
                           "property": "data-id",
-                          "value": "27pkYE"
+                          "value": "GTRai3"
                         }
                       ],
                       "classList": [
@@ -1053,7 +1053,7 @@
                         },
                         {
                           "property": "data-id",
-                          "value": "ZfhD09"
+                          "value": "sgu_3D"
                         }
                       ],
                       "classList": [
@@ -1110,7 +1110,7 @@
                         },
                         {
                           "property": "data-id",
-                          "value": "GlI0jf"
+                          "value": "AU2MBG"
                         }
                       ],
                       "classList": [
@@ -1167,6 +1167,35 @@
         }
       ],
       "comments": "Built-in Box pairs the unstyled core Navigation with the content region. Core Navigation owns its header, toggle, responsive collapse, and visual appearance. Viewport minimum height does not depend on ancestor percentage heights."
+    },
+    {
+      "name": "dashboard-shell",
+      "nodeName": "dashboard-shell",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "S09M8_"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "id": "6af13282a6e72ea093e86099",
+      "ownerName": null,
+      "type": "custom-component",
+      "expressions": []
     }
   ],
   "description": "## Completed PetWorld workspace\nPersistent shell for the completed workspace.home, workspace.pets, workspace.pet-detail and workspace.countries children. The home page declares parentPageName workspace and renders at /app/home. Use the top-level workspace state as the app default entry: exact workspace arrivals redirect to workspace.home with $state.go('workspace.home', {}, { location: 'replace' }), replacing the parent entry in browser history.\n\nA dedicated lifecycle method installs an exact-parent success hook and one deferred initial check. Angular $timeout defers navigation until after the current transition/digest; registration, current-state and active-transition checks protect child deep links and concurrent navigation. A shared queued/in-flight guard deduplicates initialization and success-hook work. Rejections are handled without automatic retries or redirect loops; the existing overview link remains available. Hooks and pending timers are cleaned up after successful workspace exit. syncNavigation only computes menu state and never initiates transitions.\n\nCore Navigation, declarative links, child-pages outlet, responsive collapse, theme hooks, keyboard focus behavior, viewport minimum sizing and Petstore v2/Countries GraphQL references are preserved. Media-query and focus listeners are removed after successful workspace exit."
